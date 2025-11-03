@@ -1,2 +1,2 @@
 # pychess
-A Python chess library for mycollege
+A Python chess library for my college
