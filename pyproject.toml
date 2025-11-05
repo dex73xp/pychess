@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pychess"
+version = "0.1.0"
+description = "A simple python chess library for my college"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+]
+authors = [
+  { name = "dex73xp", email = "dex73xp@gmail.com" }
+]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License"
+]
+
